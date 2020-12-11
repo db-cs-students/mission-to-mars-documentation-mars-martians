@@ -7,4 +7,4 @@
 - Overview
 - We began designing our enclosure and tweaked it to get the best performance in a short amount of time. We had to expiriment with the microbits to get them to work like they are supposed to and got it working. 
 - Our original design looked something like this which has been drastically changed.
-- ![Design Planning](Photo.pdf)
+- ![Design Planning](Photo.jpg)
